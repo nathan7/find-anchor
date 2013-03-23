@@ -1,0 +1,17 @@
+{
+  "name": "find-anchor",
+  "repo": "nathan7/find-anchor",
+  "version": "1.0.0",
+  "description": "find the element an anchor refers to",
+  "scripts": [
+    "index.js"
+  ],
+  "keywords": [
+    "dom",
+    "anchor"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "component/query": "*"
+  }
+}

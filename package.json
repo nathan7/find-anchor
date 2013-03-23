@@ -1,0 +1,19 @@
+{
+  "name": "find-anchor",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/find-anchor.git"
+  },
+  "version": "1.0.0",
+  "description": "find the element an anchor refers to",
+  "main": "index.js",
+  "keywords": [
+    "dom",
+    "anchor"
+  ],
+  "license": "MIT",
+  "author": "Nathan Zadoks",
+  "dependencies": {
+    "query": "git://github.com/nathan7/query"
+  }
+}
